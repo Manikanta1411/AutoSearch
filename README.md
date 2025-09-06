@@ -1,0 +1,2 @@
+# AutoSearch
+Search bing webpages
